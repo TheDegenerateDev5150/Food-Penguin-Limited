@@ -32,17 +32,17 @@
     "vite": "^8.2.2"
   },
   "devDependencies": {
-    "@testing-library/dom": "^10.4.1",
+    "@testing-library/dom": "^10.4.2",
     "@testing-library/react": "^16.3.3",
     "@types/better-sqlite3": "^9.6.0",
     "@types/d3": "^7.4.3",
     "@types/express": "^5.0.6",
-    "@types/node": "^26.5.0",
+    "@types/node": "^26.5.1",
     "@types/react": "^19.2.18",
     "@types/react-dom": "^19.2.7",
     "@types/recharts": "^2.0.1",
     "@types/supertest": "^7.2.1",
-    "autoprefixer": "^10.5.5",
+    "autoprefixer": "^10.6.1",
     "esbuild": "^0.28.2",
     "jsdom": "^30.0.1",
     "supertest": "^7.2.2",
@@ -50,7 +50,7 @@
     "tsx": "^4.23.13",
     "typescript": "~7.0.2",
     "vite": "^8.2.2",
-    "vitest": "^5.0.0"
+    "vitest": "^5.0.1"
   },
   "overrides": {
     "protobufjs": "^7.6.5",
